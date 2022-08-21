@@ -34,7 +34,7 @@ contract AthleteNFT is ERC721Burnable, ERC721URIStorage, Ownable {
     }
 
     function _baseURI() internal pure override returns (string memory){
-        return "ipfs://bafybeigyod7ldrnytkzrw45gw2tjksdct6qaxnsc7jdihegpnk2kskpt7a/";
+        return "ipfs://bafkreibmoa5dxvu2nrwk27hxjqkqcgpwdpzeybbpkchnop775licj7kr5u";
     }
 
     function tokenURI(uint256 tokenId) public view  override(ERC721, ERC721URIStorage) returns (string memory) {
