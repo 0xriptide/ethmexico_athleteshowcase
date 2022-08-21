@@ -1,4 +1,5 @@
-# ethmexico_athleteshowcase
+# ethmexicooooo Athlete Showcase
+
 Athlete Showcase for ethMexico hackathon
 by 0xriptide at ethMexico Aug '22
 
